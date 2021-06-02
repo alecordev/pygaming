@@ -301,7 +301,7 @@ class Level:
 
     def load_next_level(self):
         self.__current_level += 1
-        file_name = os.path.join("res", "levels", f"level{self.__current_level}.dat")
+        file_name = os.path.join("res", "levels", f"level{self.__current_level}.txt")
 
         if not os.path.exists(file_name):
             self.load_random()
@@ -361,7 +361,7 @@ class Level:
         self.__bricks = []
 
         x, y = 0, 0
-        with open(os.path.join("res", "levels", f"level{level}.dat"), "r") as f:
+        with open(os.path.join("res", "levels", f"level{level}.txt"), "r") as f:
             for line in f:
                 logging.debug(f"Processing {line} from level{level}...")
                 for current_brick in line:
