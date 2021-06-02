@@ -1,0 +1,13 @@
+Name: vegastrike-music
+Summary: Vegastrike - a free 3D space fight simulator (music files)
+Version: 0.4.1
+Release: 1
+Copyright: GPL
+Group: Amusements/Games
+Source: vegastrike-music.tar.gz
+URL: http://vegastrike.sourceforge.net
+Packager: Krister Kjellström aka Starchild <k00_kjr@k.kth.se>
+BuildRoot: %{_tmppath}/music
+Prefix: /usr/local
+Provides: vegastrike-music
+Requires: vegastrike-data

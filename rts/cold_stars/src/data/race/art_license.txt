@@ -1,0 +1,77 @@
+##################################
+# http://opengameart.org/content/little-big-headed-character
+# Description: Just modelled in Blender by learning youtube video :)
+# Artist:sharavsambuu 
+# License(s):ZLIB
+##################################
+Sony_little_big_planet_a.blend  << 0000.png
+##################################
+
+
+# http://opengameart.org/content/lizardman
+# Description: Made this lizard/reptileman for projects like OSARE, where  models are saved in png frames.
+# Artist: sunburn (OpenGameArt.org user)
+# License(s): CC-BY 3.0
+##################################
+lizardman.7z >> 1000.png
+##################################
+
+# http://opengameart.org/content/fat-spacepirate-facial-animation
+# Description:
+# This is FatSpacePirate facial animation i made for Privateer Gemini Gold  intro.
+# If you know the game, he's the pirate who is seen in the green monitor  inside Burrows spaceship Taurus.
+# Eventually this was not used in the intro.
+# Made in Blender.
+# Textured, has shapekeyes for most phenomes. And lipsync animation but  soundfile is not included.
+
+# This was my first facial animation.
+# http://vimeo.com/10603022
+# Artist:Aare (OpenGameArt.org user)
+# License(s):CC-BY 3.0
+##################################
+Fat_pirate_PrivateerGG.zip >> 2000.png
+##################################
+
+# http://opengameart.org/content/woman-mesh
+# Description:simple woman mesh
+# Artist:sharavsambuu (Email contact form)
+# Artist's Web Page: http://sharavaa.blogspot.com/
+# License(s):CC0 (Public Domain)
+# Download:MotomboroGrl.blend
+##################################
+MotomboroGrl.blend >> 3000.png
+##################################
+
+
+
+# http://opengameart.org/content/yeti-type-thing
+# Description:A yeti type thing with claw'd duck feet.
+# Artist: tidbit (OpenGameArt.org user)
+# License(s):GNU GPL 2.0 GNU GPL 3.0 CC-BY-SA 3.0
+##################################
+yeti.7z >> 4000.png
+##################################
+
+
+
+# http://opengameart.org/content/antlion-demon
+# Description: Made this insect-man demon, for projects like OSARE where number of polys for the model doesn't matter since they are exported to pgn.
+# Artist: sunburn (OpenGameArt.org user)
+# License(s): CC-BY 3.0
+# Download: Antlion_Demon.7z
+
+##################################
+Antlion_Demon.7z >> 6000.png
+##################################
+
+
+# http://opengameart.org/content/ubot
+# Description: UBot, by Oblivion.  In 3ds, obj, and max formats.  Low-poly.  Fully textures, with normal, bump, and specular maps.
+# Artist: Oblivion (Email contact form)
+# Artist's Web Page: http://astepintooblivion.deviantart.com/
+# License(s): GNU GPL 2.0, GNU GPL 3.0
+# Download: UBot-AllFiles.zip
+
+##################################
+UBot-AllFiles.zip >> 7000.png
+##################################

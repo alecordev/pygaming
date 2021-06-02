@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="1" tilewidth="40" tileheight="40">
+  <image source="../graphics/tileset/tile_bosque.png" width="320" height="1000"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzjZGBg4BzFo3gUj+IhgAHTUAqN
+  </data>
+ </layer>
+ <objectgroup color="#00aaff" name="Capa de Objetos 1" width="20" height="15">
+  <properties>
+   <property name="Héroe" value=""/>
+  </properties>
+ </objectgroup>
+</map>

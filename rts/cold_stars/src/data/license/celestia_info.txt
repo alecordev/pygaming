@@ -1,0 +1,12 @@
+###########################################################################################
+# Project:      CELESTIA
+# License:	GNU GPL
+# Site:     	www.shatters.net/celestia/
+#
+# Additional info:
+# Celestia is a 3D astronomy program created by Chris Laurel
+# Celestia is available for Linux, Mac OS X, and Microsoft Windows. Released under the GNU 
+# General Public License, Celestia is free software.
+##########################################################################################
+
+

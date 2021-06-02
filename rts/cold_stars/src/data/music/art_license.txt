@@ -1,0 +1,10 @@
+#####################################################################
+# Project:      VegaStrike
+# License:	see in << /data/license/VegaStrike_info.txt >>
+##################################
+filename     << original filename 
+
+bg_space_000.ogg << steel_p.ogg
+##################################
+
+

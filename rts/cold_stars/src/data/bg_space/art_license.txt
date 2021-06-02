@@ -1,0 +1,50 @@
+##################################
+# Project:      new (not named yet)
+# License:	see in << /data/license/new_art_info.txt >>
+##################################
+b_002.jpg
+b_003.jpg
+##################################
+
+##################################
+# http://opengameart.org/content/solar-system
+# Description: A small solar system consisting of three planets in orbit around a star.Made entirely in Gimp 2.6.
+# Artist: ac3raven (OpenGameArt.org user)
+# License(s):
+# CC-BY-SA 3.0
+##################################
+b_000_0.png
+##################################
+
+##################################
+# Author: Frank Smit (FSX aka 61924) http://61924.deviantart.com/
+# Url: http://61924.deviantart.com/art/Planet9-79343780
+# Artist: Frank Smit ()
+# Artist's Web Page: http://61924.deviantart.com/
+# License(s): CC-BY-SA 3.0
+##################################
+b_000_0.png
+##################################
+
+#####################################################################
+# Project: Eos-Dawn_of_Light
+# License: see in << /data/license/Eos-Dawn_of_Light_info.txt >>
+##################################
+filename     << original filename 
+b_005.jpg << nebula.jpg 
+#################################
+
+
+#####################################################################
+# Artist: Robbert van der Steeg's photostream 
+# Artist's Web Page: http://www.flickr.com/photos/robbie73/
+# Url for downloading: http://www.flickr.com/photos/robbie73/3532645111/sizes/o/in/photostream/    (3532645111_9885e2dd4e_o.jpg )
+# License(s): CC-BY-SA
+##################################
+filename  << original filename 
+b_006.jpg << 3532645111_9885e2dd4e_o.jpg 
+#################################
+
+
+
+

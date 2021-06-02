@@ -1,0 +1,25 @@
+Project:        -
+License:	GNU GPL
+Site:     	-
+
+Additional info:
+Art was created using Gimp, Lava + Emboss/BumpMapping filter.
+
+filenames:       s_000.png, s_001.png, s_002.png, s_100.png
+
+
+
+###############################################################################################
+# Project:      FREEORION
+# License:	Creative Commons Attribution - Attribution-ShareAlike 3.0 licence
+# Site:     	http://www.freeorion.org/index.php/Main_Page
+#
+# Additional info:
+# FreeOrion is using two different, but both free (as in freedom), licenses for code and content.
+# The sourcecode and game-content scripts are released under the terms of the GNU GPL 2.0. (Also # available here)
+# All artwork, music and sounds, and in-game text are released under the the Creative Commons 
+# Attribution - Attribution-ShareAlike 3.0 licence.
+##############################################################################################
+# filename  << original filename
+##############################################################################################
+star_mini.png     << orange01.png

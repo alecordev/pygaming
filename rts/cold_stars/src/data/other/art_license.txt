@@ -1,0 +1,37 @@
+##################################
+# Project:      new (not named yet)
+# License:	see in << /data/license/new_art_info.txt >>
+##################################
+dot_black.png 
+dot_blue.png  
+dot_green.png
+dot_red.png 
+dot_yellow.png
+mark_ss.png
+text_background.png
+slot_marked.png
+##################################
+
+
+#####################################################################
+# Project:      freeorion
+# License:	see in << /data/license/freeorion_info.txt >>
+##################################
+filename     << original filename 
+grabbing_ICON.png << grabbing.png
+##################################
+
+
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename     << original filename 
+H.png << store4.bmp
+slot.png << store4.bmp
+spaceman.png << spaceman.bmp
+H.png << ActGrid2.bmp
+##################################
+
+
+

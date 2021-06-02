@@ -1,0 +1,13 @@
+# Project:      FREEORION
+Creative Commons Attribution - Attribution-ShareAlike 3.0 licence.
+
+##################################
+# Project:      PyCaptain (pyfl)
+# License:	GNU GPLv2
+
+##################################
+# Project:      Celestia
+# License:	GNU GPL
+
+Eos-Dawn_of_Light
+License: no restriction

@@ -1,0 +1,12 @@
+# Material Count: 1
+newmtl saturn_solid_satu.001_tex.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.157282 0.107938 0.014800
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex.png
+
+

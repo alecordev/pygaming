@@ -1,0 +1,12 @@
+###############################################################################################
+# Project:      FREEORION
+# License:	Creative Commons Attribution - Attribution-ShareAlike 3.0 licence
+# Site:     	http://www.freeorion.org/index.php/Main_Page
+#
+# Additional info:
+# FreeOrion is using two different, but both free (as in freedom), licenses for code and content.
+# The sourcecode and game-content scripts are released under the terms of the GNU GPL 2.0. (Also # available here)
+# All artwork, music and sounds, and in-game text are released under the the Creative Commons 
+# Attribution - Attribution-ShareAlike 3.0 licence.
+##############################################################################################
+

@@ -1,0 +1,24 @@
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename   << original filename 
+
+sa_001.png << Doomday.bmp
+sa_002.png << ship5.bmp
+sa_003.png << Warp.bmp
+##################################
+
+
+#####################################################################
+# Project: Tyrian
+# License: see in << /data/license/Tyrian_info.txt >>
+##################################
+filename     << original filename 
+
+sa_005.png << newsh2.shp.000000.png
+sa_004.png << newsh3.shp.000000.png 
+sa_006.png << newsh2.shp.000000.png
+sa_007.png << newsh2.shp.000000.png
+
+##################################

@@ -1,0 +1,41 @@
+#####################################################################
+# Project:      PyCaptain (pyfl)
+# License:	see in << /data/license/PyCaptain(pyfl)_info.txt >>
+##################################
+filename     << original filename 
+
+bomb_item.png << generator.png
+##################################
+
+
+#####################################################################
+# Project:      freeorion
+# License:	see in << /data/license/freeorion_info.txt >>
+##################################
+filename     << original filename 
+grapple_item.png    << mass_driver.png
+lazer_blue_item.png << ion_cannon.png
+lazer_red_item.png  << laser.png
+rocket_item.png     << nuclear_missile.png
+energyBlock_item.png << antimatter_tank.png
+module.png << colonymarker.png
+freezer_item.png << cryonic_colony_pod.png
+droid_item.png << colony_pod.png
+##################################
+
+
+
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename     << original filename 
+bak_item.png          << launcher.bmp
+container.png         << Cargo2.bmp
+drive_item.png        << Cargo2.bmp
+protector_item.png    << Beacon2.bmp
+scaner_item.png       << Doomday.bmp
+radar_item.png        << Warp.bmp
+##################################
+
+

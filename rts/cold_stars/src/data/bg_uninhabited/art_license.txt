@@ -1,0 +1,34 @@
+##################################
+Description: A desert scene with a pyramid and some sand dunes.
+Artist: bart (OpenGameArt.org user)
+License(s): GNU GPL 2.0, GNU GPL 3.0, CC-BY-SA 3.0
+##################################
+filename  << orig_filename
+b_000.jpg << pyramid.jpg
+##################################
+
+##################################
+Description: Made for the Easy-RPG Project.
+Artist: Delfos (OpenGameArt.org user)
+License(s): GNU GPL 2.0, GNU GPL 3.0, CC-BY-SA 3.0
+##################################
+filename  << orig_filename
+b_001.png << paisaje artico.png
+##################################
+
+
+##################################
+Description: Background/storyboard pictures in a oil painting like style.
+Artist: JAP (OpenGameArt.org user)
+License(s): GNU GPL 2.0, GNU GPL 3.0, CC-BY-SA 3.0
+##################################
+filename  << orig_filename
+b_002.png << desertnight.png
+##################################
+
+
+
+
+
+
+

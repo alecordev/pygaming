@@ -1,0 +1,28 @@
+##################################
+# Project:      new (not named yet)
+# License:	see in << /data/license/new_art_info.txt >>
+##################################
+l_001.png
+sphere.png, sphere.xcf
+grapple_jet.png
+atmosphere_sun_yellow.png
+atmosphere_sun_blue.png
+##################################
+
+##################################
+# Project:      PyCaptain (pyfl)
+# License:	see in << /data/license/PyCaptain(pyfl)_info.txt >>
+##################################
+filename  << original filename 
+rocket_bullet.png << pointer.bmp
+##################################
+
+
+##################################
+Artist: pfunked (OpenGameArt.org user)
+License(s): GNU GPL 2.0, GNU GPL 3.0, CC-BY-SA 3.0
+Made in Blender
+##################################
+filename  << original filename 
+l_64_26_000.png << shock.png
+##################################

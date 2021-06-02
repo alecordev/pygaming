@@ -1,0 +1,44 @@
+##################################
+# Project:      freeorion
+# License:	Creative Commons Attribution - Attribution-ShareAlike 3.0 licence
+##################################
+# filename  << original filename
+# p_1000.png   << Ocean03.png
+##################################
+# Detalies see in << /data/license/freeorion_info.txt >>
+##################################
+
+
+
+
+##################################
+# Project:      freeorion
+# License:	Creative Commons Attribution - Attribution-ShareAlike 3.0 licence
+##################################
+# filename  << original filename
+# p_0000.png     << Terran02.png
+##################################
+# filename  << original filename
+# p_2000.png     << Inferno01.png
+################################
+# filename  << original filename
+# p_3000.png     << Barren02.png
+##################################
+# Detalies see in << /data/license/freeorion_info.txt >>
+##################################
+
+
+
+##################################
+# Project:      Celestia
+# License:	GNU GPL
+##################################
+# filename  << original filename
+# p_4000.png   << jupiter.jpg
+##################################
+# Detalies see in << /data/license/celestia_info.txt >>
+##################################
+
+
+
+

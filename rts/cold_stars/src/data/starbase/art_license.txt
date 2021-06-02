@@ -1,0 +1,21 @@
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename   << original filename 
+
+sb_000.png << Factory1.bmp
+sb_001.png << Factory2.bmp
+
+##################################
+
+
+#####################################################################
+# Project: Tyrian
+# License: see in << /data/license/Tyrian_info.txt >>
+##################################
+filename     << original filename 
+
+sb_002.png << newsh^.shp.000000.png
+sb_003.png << newshl.shp.000000.png
+##################################

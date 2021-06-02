@@ -1,0 +1,9 @@
+##################################
+# Project:      PyCaptain (pyfl)
+# License:	GNU GPLv2
+##################################
+filename     << original filename 
+bh_00.png    << black-hole.png
+##################################
+# Detalies see in << /data/license/PyCaptain(pyfl)_info.txt >>
+##################################

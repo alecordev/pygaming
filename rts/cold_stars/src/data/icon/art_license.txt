@@ -1,0 +1,46 @@
+##################################
+# Project:      new (not named yet)
+# License:	see in << /data/license/new_art_info.txt >>
+##################################
+starsystem_ICON.png
+minus_ICON.png
+plus_ICON.png
+##################################
+
+
+#####################################################################
+# Project:      freeorion
+# License:	see in << /data/license/freeorion_info.txt >>
+##################################
+filename     << original filename 
+angar_ICON.png << industry_mono.png
+shop_ICON.png << supply.png
+store_ICON.png << supply.png
+launch_ICON.png << speed.png
+goverment_ICON.png << troops.png
+repair_ICON.png << construction.png 
+##################################
+
+
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename     << original filename 
+fuel_ICON.png << Cargo2.bmp
+##################################
+
+
+#####################################################################
+# Project: Tyrian
+# License: see in << /data/license/Tyrian_info.txt >>
+##################################
+filename     << original filename 
+drug_shop_icon.png << tyrian.shp.010008.png
+food_shop_icon.png << tyrian.shp.010008.png
+medicine_shop_icon.png << tyrian.shp.010008.png
+military_shop_icon.png << tyrian.shp.010008.png
+exclusive_shop_icon.png << tyrian.shp.01673F.png
+mineral_shop_icon.png << newshd.shp.000000.png
+
+##################################

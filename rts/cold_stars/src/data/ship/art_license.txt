@@ -1,0 +1,61 @@
+#####################################################################
+# Project:      PyCaptain (pyfl)
+# License:	see in << /data/license/PyCaptain(pyfl)_info.txt >>
+##################################
+filename     << original filename 
+
+k_10_0_0.png << human-fs-0.png  
+k_11_0_0.png << human-fs-2.png
+k_12_0_0.png << human-fs-1.png
+k_13_0_0.png << civilian-1.png
+k_14_0_0.png << evolved-bomber.png
+k_43_0_0.png << evolved-fs-1.png
+k_43_0_1.png << evolved-fs-0.png
+##################################
+
+
+#####################################################################
+# Project: Eos-Dawn_of_Light
+# License: see in << /data/license/Eos-Dawn_of_Light_info.txt >>
+##################################
+filename     << original filename 
+
+k_21_0_0.png << draken.png
+k_22_0_0.png << draken-armor.png
+k_31_0_0.png << lotus.png
+k_31_0_1.png << cress.png
+k_22_0_1.png << drach-armor.png
+k_24_0_0.png << drach.png
+k_30_0_0.png << ship.png
+##################################
+
+
+#####################################################################
+# Project: Iron Plague
+# License: see in << /data/license/Iron_Plague.txt >>
+##################################
+filename     << original filename 
+k_41_0_0.png << Cargo1.bmp
+k_00_0_0.png << Bship.bmp
+k_01_0_0.png << Bship.bmp
+k_44_0_0.png << Hunter1.bmp
+k_71_0_1.png << KlrParts.bmp
+##################################
+
+
+#####################################################################
+# Project: Tyrian
+# License: see in << /data/license/Tyrian_info.txt >>
+##################################
+filename     << original filename 
+
+k_01_0_1.png << newsh2.shp.000000.png
+k_02_0_0.png << newsh2.shp.000000.png
+k_03_0_0.png << newsh2.shp.000000.png
+k_04_0_0.png << newsh2.shp.000000.png
+k_32_0_0.png << newsh2.shp.000000.png
+k_61_0_2.png << newsh2.shp.000000.png
+k_61_0_0.png << newsh4.shp.000000.png
+k_61_0_1.png << newsh4.shp.000000.png
+k_71_0_0.png << newsh^.shp.000000.png
+##################################
