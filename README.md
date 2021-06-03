@@ -75,3 +75,9 @@ Resources, tutorials and guides that use Python and pygame.
 - https://github.com/jellyberg/Aedificus---Fathers_of_Rome
 
 Both of which had to be modified extensively to make them work, and are included in this repo.
+
+## Getting resources for your games
+
+- https://freesound.org/browse/
+- https://soundbible.com/  
+- https://www.freepik.com/
